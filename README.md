@@ -1,5 +1,7 @@
 # vue-hello
 
+Live on http://vue-spa-movies.surge.sh/
+
 ## Project setup
 ```
 npm install
